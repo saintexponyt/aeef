@@ -1,10 +1,10 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Phowg Universal", "Sentinel")
+local Window = Library.CreateLib("Phowg Ware", "Synapse")
 
 local Tab = Window:NewTab("Main")
 local Tab1 = Window:NewTab("Credits")
 
-local Section = Tab:NewSection("Combat warriors")
+local Section = Tab:NewSection("Saitama Battlegrounds")
 local Section1 = Tab1:NewSection("credits")
 
 Section:NewButton("Baseplate TP", "Baseplate TP TSBG", function()
