@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Phowg Universal", "Synapse")
+local Window = Library.CreateLib("Phowg Universal", "Sentinel")
 
 local Tab = Window:NewTab("Main")
 local Tab1 = Window:NewTab("Credits")
